@@ -3,6 +3,7 @@
 
 * Atualmente estou trabalhando como Analista Administrativo na [Câmara Municipal de Guaraciaba do Norte](https://www.cmguaraciabadonorte.ce.gov.br/) - CE - Brasil
 * Pós-Graduando em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
+* Analista de Dados na Data Mundo
 * Sou Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
 * 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel e Python**
 * 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com

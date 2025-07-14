@@ -1,10 +1,11 @@
 <h1>Oi 👋, eu sou o Gui ! </h1>
 <p>Um Arquiteto que se apaixonou por Dados e como eles podem gerar RESULTADOS !</p>
 
-* Analista de Dados na Data Mundo
+* Analista de PPCP Grendene S/A
+* Ex Analista de Dados Data Mundo
 * Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
 * Sou Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
-* 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel e Python**
+* 💬 Me pergunte sobre **SQL, Google Cloud Plataform, Power BI, Excel e Python**
 * 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com
 
 <h2>🚀 Linguagens </h2>

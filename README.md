@@ -1,7 +1,7 @@
 <h1>Oi 👋, eu sou o Gui ! </h1>
 <p>Um Arquiteto que se apaixonou por Dados e como eles podem gerar RESULTADOS !</p>
 
-* Analista de PPCP Grendene S/A
+* Analista de PPCP II Grendene S/A
 * Ex Analista de Dados Data Mundo
 * Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
 * Sou Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)

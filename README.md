@@ -3,7 +3,7 @@
 
 * Analista de PPCP II Grendene S/A
 * Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
-* 💬 Me pergunte sobre **SQL, Google Cloud Plataform, Power BI, Excel e Python**
+* 💬 Me pergunte sobre **Python, SQL, Power BI e Machine Learning**
 * 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com
 
 <h2>🚀 Linguagens </h2>

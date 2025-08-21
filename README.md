@@ -4,7 +4,6 @@
 * Analista de PPCP II Grendene S/A
 * Ex Analista de Dados Data Mundo
 * Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
-* Sou Aprendiz na [Comunidade DS](https://www.comunidadeds.com/)
 * 💬 Me pergunte sobre **SQL, Google Cloud Plataform, Power BI, Excel e Python**
 * 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com
 

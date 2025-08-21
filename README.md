@@ -2,7 +2,6 @@
 <p>Um Arquiteto que se apaixonou por Dados e como eles podem gerar RESULTADOS !</p>
 
 * Analista de PPCP II Grendene S/A
-* Ex Analista de Dados Data Mundo
 * Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
 * 💬 Me pergunte sobre **SQL, Google Cloud Plataform, Power BI, Excel e Python**
 * 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com

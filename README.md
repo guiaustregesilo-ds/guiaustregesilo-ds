@@ -1,12 +1,12 @@
-<h1>Oi 👋, eu sou o Gui ! </h1>
-<p>Um Arquiteto que se apaixonou por Dados e como eles podem gerar RESULTADOS !</p>
+<h1>Hi folks 👋, I'm Gui ! </h1>
+<p>From Architecture to Data: passionate about transforming information into RESULTS</p>
 
-* Analista de PPCP II Grendene S/A
-* Pós-Graduado em Ciência de Dados pela [UNIASSELVI](https://portal.uniasselvi.com.br/)
-* 💬 Me pergunte sobre **Python, SQL, Power BI e Machine Learning**
-* 📫 Você me acha através do e-mail guiaustregesilo.ds@gmail.com
+* Production Planning Analyst II | Grendene S/A
+* Postgraduate in Data Science from [UNIASSELVI](https://portal.uniasselvi.com.br/)
+* 💬 Ask me about **Python, SQL, Power BI e Machine Learning**
+* 📫 You can contact me at: guiaustregesilo.ds@gmail.com
 
-<h2>🚀 Linguagens </h2>
+<h2>🚀 Languages </h2>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>

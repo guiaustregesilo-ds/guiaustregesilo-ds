@@ -41,13 +41,23 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
+
+<img
+    align="left" 
+    alt="Poetry"
+    title="Poetry" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
           
+
 <img 
     align="left" 
     alt="HTML"
@@ -56,6 +66,7 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -64,6 +75,7 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -151,15 +163,6 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>

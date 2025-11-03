@@ -20,15 +20,15 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
     </a> 
     <a href="https://github.com/guiaustregesilo-ds?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/guiaustregesilo-ds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Stars" 
+            title="Stars on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/guiaustregesilo-ds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/guiaustregesilo-ds?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/guiaustregesilo-ds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -36,7 +36,7 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages e Tecnologies
 
 <img 
     align="left" 

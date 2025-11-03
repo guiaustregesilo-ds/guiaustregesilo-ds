@@ -38,6 +38,16 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
 
 ### 🤖 Languages e Tecnologies
 
+
+<img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+          
 <img 
     align="left" 
     alt="HTML"

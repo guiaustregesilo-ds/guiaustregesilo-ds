@@ -2,7 +2,7 @@
 
 **`Data Scientist | AI Engineer`**
 
-Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma menina linda de 4 anos. Formado Bacharel em Arquitetura e durante meu contato com tecnologia acabei migrando de área e concluí minha pós-graduação MBA em Ciência de Dadods pela UNIASSELVI e estou finalizando minha segunda pós-graduação em AI Engineer pela Scoras Academy. Como um bom apaixonado por tecnologia, aqui eu compartilho todo meu conhecimento."
+Hi, I’m Guilherme Austregesilo, but you can call me Gui. I’m 32 years old and the proud father of a wonderful 4-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data. I earned an MBA in Data Science from UNIASSELVI and am currently completing my second postgraduate program in AI Engineering at Scoras Academy. As a true tech enthusiast, this is where I share my knowledge, insights, and experiences in the fields of data, analytics, and artificial intelligence.
 <p align="left">
     <a href="https://www.youtube.com/@GuilhermeAustreg%C3%A9silo">
         <img 
@@ -47,6 +47,14 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+<img
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>          
 <img
     align="left" 
     alt="Poetry"
@@ -98,7 +106,7 @@ Me chamo Guilherme Austregesilo ou apenas Gui, tenho 32 anos e sou pai de uma me
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statitiscal
 
 <p>
   <img 

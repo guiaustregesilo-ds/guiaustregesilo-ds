@@ -2,7 +2,7 @@
 
 **`Data Scientist | AI Engineer`**
 
-Hi, I’m Guilherme Austregesilo, but you can call me **Gui**. I’m 32 years old and the proud father of a wonderful 4-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data. 
+Hi, I’m Guilherme Austregesilo, but you can call me **Gui**. I’m 32 years old and the proud father of a wonderful 5-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data. 
 
 I earned an MBA in Data Science from UNIASSELVI and am currently completing my second postgraduate program in AI Engineering at Scoras Academy. 
 

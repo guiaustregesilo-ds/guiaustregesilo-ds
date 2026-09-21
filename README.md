@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gui Austregesilo
 
-**`Data Scientist | AI Engineer`**
+**`FDE | AI Product Manager | AI Engineer`**
 
 Hi, I’m Guilherme Austregesilo, but you can call me **Gui**. I’m 32 years old and the proud father of a wonderful 5-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data. 
 

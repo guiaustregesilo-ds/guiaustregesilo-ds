@@ -2,7 +2,7 @@
 
 **`AI Product Manager | AI Engineer | FDE `**
 
-Hi, I’m Guilherme Austregesilo, but you can call me **Gui**. I’m 33 years old and the proud father of a wonderful 5-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data. 
+Hi, I’m Guilherme Austregesilo, but you can call me **Gui**. I’m 33 years old and the proud father of a wonderful 5-year-old girl. I hold a Bachelor’s degree in Architecture, but my passion for technology led me to transition into the world of data and AI. 
 
 I earned an MBA in Data Science from UNIASSELVI and am currently completing my second postgraduate program in **AI & Data Engineering** at IT Valley School/Anhanguera. 
 
